@@ -55,5 +55,5 @@ Developed by:DHARSHAN BABU A RegisterNumber:25008132
 **TIMING DIGRAMS FOR SISO Shift Register**
 <img width="1917" height="763" alt="Screenshot 2025-12-11 140615" src="https://github.com/user-attachments/assets/ac7e09f7-0079-4388-8f03-d591009cc6fa" />
 
-**RESULTS**
-Thus the program implemented successfully
+**RESULTS : **
+    Thus the program implemented successfully
